@@ -73,7 +73,7 @@ const Footer = () => {
             <span className="text-sm text-gray-500 sm:text-center">
                 © 2023
                 <a href="https://hiteshchoudhary.com/" className="hover:underline">
-                    hiteshchoudhary
+                    aryanlandge
                 </a>
                 . All Rights Reserved.
             </span>
